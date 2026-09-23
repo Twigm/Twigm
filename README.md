@@ -4,7 +4,7 @@ I am an Entrepreneur, Co-Founder, and Chief Executive Officer passionate about c
 
 ---
 
-### 🚀 Founder & Executive Impact
+### 🚀 Executive Impact
 
 While my personal contribution graph only tells part of the story, behind the scenes I am actively steering the development and architecture of private enterprise systems:
 
