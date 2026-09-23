@@ -30,8 +30,6 @@ While my personal contribution graph only tells part of the story, behind the sc
 ### 📈 Current Focus
 
 - 🌟 Optimizing crawling infrastructure and public music metadata routes at **Astrotwig**.
-- 🛠️ Building robust, open-source utilities and contributing back to the developer community.
-- 💼 Scaling sustainable business models through automated tech stacks.
 
 ---
 
@@ -41,4 +39,3 @@ While my personal contribution graph only tells part of the story, behind the sc
 - 🌐 **Website:** [www.astrotwig.com](https://astrotwig.com)
 - 💼 **LinkedIn:** [segun-adeleke](https://linkedin.com)
 - 🐦 **X (Twitter):** [@SegzsDaEngine](https://x.com)
-- 
