@@ -1,6 +1,6 @@
 # Hi there, I'm Oluwasegun Adeleke 👋
 
-I am an Entrepreneur, Founder, and Chief Executive Officer passionate about creating sustainable economies through impactful software solutions. As the leader of **@Astrotwig**, I manage engineering teams, direct architecture, and drive product vision from inception to production.
+I am an Entrepreneur, Co-Founder, and Chief Executive Officer passionate about creating sustainable economies through impactful software solutions. As the leader of **@Astrotwig**, I manage engineering teams, direct architecture, and drive product vision from inception to production.
 
 ---
 
